@@ -14,7 +14,7 @@ Aquí encontrarás mas info sobre mi.
 
 ## 🛠️ Tecnologías que uso
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - SQL
 
